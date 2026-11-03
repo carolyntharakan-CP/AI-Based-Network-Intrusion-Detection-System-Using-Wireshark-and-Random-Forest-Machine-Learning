@@ -1,0 +1,9 @@
+- pandas
+- numpy
+- scikit-learn
+- joblib
+- pyshark
+- streamlit
+- plotly
+- matplotlib
+- requests
